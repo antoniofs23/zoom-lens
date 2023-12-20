@@ -1,5 +1,3 @@
-# zoom-lens
-
 # Quick Intro
 Ever wanted to quickly check your webcam before hopping on a video call? Now you can with zoom-lens. 
 
