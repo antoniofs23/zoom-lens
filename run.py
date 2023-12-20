@@ -2,7 +2,6 @@ import cv2
 import signal
 import gi
 import os
-import sys
 gi.require_version('Gtk', '3.0')
 gi.require_version('AppIndicator3', '0.1')
 from gi.repository import Gtk, AppIndicator3, GObject
@@ -11,7 +10,6 @@ from gi.repository import Gtk, AppIndicator3, GObject
 abspath = os.path.abspath(__file__)
 dirname = os.path.dirname(abspath)
 os.chdir(dirname)
-
 
 class Indicator():
     def __init__(self):
