@@ -1,0 +1,2 @@
+opencv_python==4.8.1.78
+PyGObject==3.46.0
