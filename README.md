@@ -1,8 +1,9 @@
 # zoom-lens
 
 # Quick Intro
-Ever wanted to quickly check your webcam before hopping on a video call? Now you can with zoom-lens. A simple linux panel app that toggles a small webcam stream
-on the upper right of your screen.
+Ever wanted to quickly check your webcam before hopping on a video call? Now you can with zoom-lens. 
+
+Zoom-lens is a simple linux panel app that toggles a small webcam stream on the upper right of your screen.
 
 ## Installation
 clone this repo to your home directory via:
