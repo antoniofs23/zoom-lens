@@ -1,4 +1,5 @@
 import cv2
+import tkinter 
 import signal
 import gi
 import os
@@ -45,7 +46,12 @@ class Indicator():
         # make cam viewer
         cv2.namedWindow('zoom-lens', flags=cv2.WINDOW_GUI_NORMAL)
         cv2.setWindowProperty('zoom-lens', cv2.WND_PROP_TOPMOST, 1)
-
+        
+        # get screen resolution to define initial win location
+        root = tkinter.Tk()
+        x = root.winfo_screenwidth()
+        cv2.moveWindow('zoom-lens', x, 0)
+        
         # stream loop
         while cv2.getWindowProperty('zoom-lens', cv2.WND_PROP_VISIBLE) > 0:
             
@@ -62,7 +68,6 @@ class Indicator():
         #clean up
         capture.release()
         cv2.destroyAllWindows()
-            
             
     def quit(self, source):
         Gtk.main_quit()    
