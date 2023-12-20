@@ -5,7 +5,7 @@ import gi
 import os
 gi.require_version('Gtk', '3.0')
 gi.require_version('AppIndicator3', '0.1')
-from gi.repository import Gtk, AppIndicator3, GObject
+from gi.repository import Gtk, AppIndicator3
 
 # change the working directory when script is run through command-line
 abspath = os.path.abspath(__file__)

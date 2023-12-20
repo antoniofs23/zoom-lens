@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="74.715652"
-   height="54.040421"
+   width="93.775566"
+   height="92.69104"
    id="svg2985"
    version="1.1"
    inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
@@ -19,10 +19,10 @@
      id="defs2987">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="-27.490789 : 18.859427 : 1"
+       inkscape:vp_x="-27.490789 : 57.510046 : 1"
        inkscape:vp_y="0 : 928.80024 : 0"
-       inkscape:vp_z="80.947862 : 22.574627 : 1"
-       inkscape:persp3d-origin="14.448897 : 12.667425 : 1"
+       inkscape:vp_z="80.947862 : 61.225246 : 1"
+       inkscape:persp3d-origin="14.448897 : 51.318044 : 1"
        id="perspective2997" />
   </defs>
   <sodipodi:namedview
@@ -32,38 +32,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.5"
-     inkscape:cx="37.545455"
-     inkscape:cy="28.909091"
-     inkscape:current-layer="g6"
+     inkscape:zoom="2.75"
+     inkscape:cx="46.363636"
+     inkscape:cy="0.36363636"
+     inkscape:current-layer="g2"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
-     inkscape:window-width="5120"
-     inkscape:window-height="1377"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1524"
+     inkscape:window-height="1243"
+     inkscape:window-x="1920"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
-    <inkscape:grid
-       id="grid1"
-       units="px"
-       originx="5.6155407"
-       originy="-3.1637263"
-       spacingx="1"
-       spacingy="1"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="5"
-       dotted="false"
-       gridanglex="30"
-       gridanglez="30"
-       visible="true" />
-  </sodipodi:namedview>
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata2990">
     <rdf:RDF>
@@ -79,7 +62,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(5.6155407,-3.1637263)">
+     transform="translate(14.873455,13.605012)">
     <g
        id="g5"
        transform="translate(61.029549,25.878414)">
@@ -87,29 +70,25 @@
          id="g4"
          transform="translate(-61.148541,-26.002684)">
         <g
-           id="g6">
-          <rect
-             style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.31886"
-             id="rect1"
-             width="72.39679"
-             height="48.604866"
-             x="-4.3371186"
-             y="7.5641203"
-             ry="5.1198258" />
-          <rect
-             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.31886"
-             id="rect3"
-             width="18.315599"
-             height="9.6431408"
-             x="38.134235"
-             y="3.2879963"
-             ry="4.8215704" />
-          <circle
-             style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.31886;stroke-opacity:1"
-             id="path4"
-             cx="31.861275"
-             cy="31.866552"
-             r="13.257718" />
+           id="g6"
+           style="fill:none;fill-opacity:1;stroke:#f9f9f9;stroke-opacity:1">
+          <g
+             id="g2"
+             transform="matrix(1.2202134,0,0,1.2202134,-3.8711671,-6.3336884)"
+             style="fill:none;fill-opacity:1;stroke:#f9f9f9;stroke-opacity:1">
+            <circle
+               style="fill:none;fill-opacity:1;stroke:#f9f9f9;stroke-width:5.06089;stroke-opacity:1"
+               id="path1"
+               cx="30.450775"
+               cy="31.624611"
+               r="33.312325" />
+            <circle
+               style="fill:#ffffff;fill-opacity:1;stroke:#f9f9f9;stroke-width:4.52884;stroke-opacity:1"
+               id="path2"
+               cx="30.450775"
+               cy="31.624611"
+               r="20.636255" />
+          </g>
         </g>
       </g>
     </g>
