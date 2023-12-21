@@ -50,8 +50,9 @@ class Indicator():
         
         # get screen resolution to define initial win location
         root = tkinter.Tk()
-        x = root.winfo_screenwidth()
-        cv2.moveWindow('zoom-lens', x, 0)
+        x = root.winfo_screenwidth() 
+        x_loc = int(x-(x*0.10))
+        cv2.moveWindow('zoom-lens', x_loc, 0)
         
         # stream loop
         while cv2.getWindowProperty('zoom-lens', cv2.WND_PROP_VISIBLE) > 0:
