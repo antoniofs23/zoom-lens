@@ -27,9 +27,10 @@ class Indicator():
         menu = Gtk.Menu()
         
         # show camera
-        display = Gtk.MenuItem('activate cam')
+        display = Gtk.MenuItem('toggle cam')
         display.connect('activate', self.cam)
         menu.append(display)
+        self.indicator.set_secondary_activate_target(display)
         
         # quit app
         quit = Gtk.MenuItem('quit')
