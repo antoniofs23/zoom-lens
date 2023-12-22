@@ -8,6 +8,7 @@
 echo "alias zoom-lens='python3 ~/zoom-lens/main.py &'" >> ~/.bashrc
 
 # 2. Install python dependencies
+sudo apt install libgirepository1.0-dev
 pip install -r requirements.txt
 
 # 3. set up as start-up process
