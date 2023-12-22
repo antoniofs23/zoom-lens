@@ -1,3 +1,4 @@
+[![Python application](https://github.com/antoniofs23/zoom-lens/actions/workflows/python-app.yml/badge.svg)](https://github.com/antoniofs23/zoom-lens/actions/workflows/python-app.yml)
 # Quick Intro
 Ever wanted to quickly check your webcam before hopping on a video call? Now you can with zoom-lens. 
 
