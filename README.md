@@ -6,7 +6,7 @@ Zoom-lens is a simple linux panel app that toggles a small webcam stream on the 
 
 ## Functionality
 
-- **click the menu icon** to toggle the cam or **middle-mouse-button click** the app icon to toggle cam
+- **click the menu icon** to toggle the cam or **mouse-wheel click** the app icon to toggle cam
 - to end stream just close the window
 
 ![zoom-lens](https://github.com/antoniofs23/zoom-lens/assets/39067846/8cf2619f-eef6-4067-aa49-f922ece2cf3b)
