@@ -16,12 +16,12 @@ Retains all openCV functionality, i.e. you can zoom in with mouse scroll wheel a
 
 
 ## Installation
+*the install file assumes python is already installed* if not python 3.10 is required prior to running `INSTALL.sh`
+
 clone this repo to your home directory via:
 
 1. `git clone https://github.com/antoniofs23/zoom-lens.git`
 2. In app directory run the `INSTALL.sh` file
-
-*the install file assumes python is already installed* if not python 3.10 is required
 
 ### running the app
 The app should auto-start on login.
