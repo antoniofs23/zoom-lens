@@ -21,6 +21,8 @@ clone this repo to your home directory via:
 1. `git clone https://github.com/antoniofs23/zoom-lens.git`
 2. In app directory run the `INSTALL.sh` file
 
+*the install file assumes python is already installed* if not python 3.10 is required
+
 ### running the app
 The app should auto-start on login.
 However, it can also be run through the `zoom-lens` terminal command
