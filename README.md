@@ -16,9 +16,7 @@ Retains all openCV functionality, i.e. you can zoom in with mouse scroll wheel a
 
 
 ## Installation
-*the install file assumes python is already installed (which it normally is)* if not python3 is required prior to running `INSTALL.sh`
-
-to quickly check if python is installed run `python -V` in your terminal
+*the install file assumes python is already installed (which it normally is)* if not python3 is required prior to running `INSTALL.sh`. To quickly check if python is installed run `python -V` in your terminal
 
 clone this repo to your home directory via:
 
